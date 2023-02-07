@@ -15,8 +15,4 @@
 ### Connect with me
 <p align="left">  <a href="https://www.linkedin.com/in/rishika-kesharwani-894aab1b8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika8119&show_icons=true&locale=en&layout=compact" alt="rishika8119" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika8119&show_icons=true&locale=en" alt="rishika8119" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika8119&" alt="rishika8119" /></p>
